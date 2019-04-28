@@ -41,3 +41,4 @@ public class Trainee implements Comparable<Trainee> {
     }
 
 }
+

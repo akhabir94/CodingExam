@@ -65,6 +65,8 @@ public class CsvReader {
             }
         }
 
+        System.out.println("The avg marks of the class is: " +total/count);
+
     }
 
 }
